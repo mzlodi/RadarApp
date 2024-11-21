@@ -18,7 +18,19 @@ Clone the project
   git clone https://github.com/mzlodi/RadarApp.git
 ```
 
-Run the simulator script from project's directory
+Change into the RadarApp directory
+
+```bash
+  cd .\RadarApp\
+```
+
+Build the app
+
+```bash
+  dotnet build
+```
+
+Run the simulator script from the project's directory
 
 For example:
 ```bash
